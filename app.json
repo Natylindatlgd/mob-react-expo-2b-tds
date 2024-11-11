@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-comecando-do-zero",
-    "slug": "react-native-comecando-do-zero",
+    "name": "orgs",
+    "slug": "nome-sem-formatacao",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +11,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
     "ios": {
       "supportsTablet": true
     },
